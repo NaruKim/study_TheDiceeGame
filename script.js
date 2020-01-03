@@ -1,6 +1,8 @@
 //First Die
 var n = Math.random();
 var m = Math.floor(n * 6);
+//var randomNumber=Math.floor*(Math.random());
+
 //Second Die
 var x = Math.random();
 var y = Math.floor(x * 6);
